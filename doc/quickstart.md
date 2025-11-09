@@ -3,7 +3,7 @@
 This document is a quick guide our new (evolving) process for handling vulnerability issue triage in the
 [x/vulndb issue tracker](http://github.com/golang/vulndb/issues).
 
-Other useful docs:
+Other 
  - [Triage](triage.md)
  - [Report format reference](format.md)
  - [Vulnreport reference](vulnreport.md)
@@ -21,8 +21,7 @@ and commit them, run:
 
 0. Assign any unlabeled, unassigned issues on the tracker to yourself.
 1. If you haven't already, follow the [one-time-setup](#one-time-setup) process.
-2. Sync the vulndb repo, re-install vulnreport and switch to a fresh branch, e.g.:
-
+2. Sync the vulndb repo, re-install vulnreport and switch to a 
    ```bash
    $ cd vulndb
    $ git sync
